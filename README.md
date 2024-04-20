@@ -5,18 +5,7 @@
 
 
 <p align='center'>
-    <img src="https://img.shields.io/badge/anaconda-20232a.svg?style=for-the-badge&logo=anaconda&logoColor=04B431" />&nbsp <!-- anaconda -->
-    <img src="https://img.shields.io/badge/jupyter%20notebook-20232a.svg?style=for-the-badge&logo=jupyter&logoColor=FF8000" />&nbsp <!-- jupyter notebook -->
-    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-20232a.svg?style=for-the-badge&logo=visualstudiocode&logoColor=61DAFB" />&nbsp <!-- visualstudioCode -->
-</p>
-
- <p align='center'>
-    <img src="https://img.shields.io/badge/Python-20232a.svg?style=for-the-badge&logo=Python&logoColor=blue" />&nbsp <!-- python -->
-  <hr>
-</p>
-
-
-<p align='center'>
-    <img src="https://img.shields.io/badge/난생처음 데이터분석 with 파이썬-20232a.svg?style=for-the-badge&logo=Python&logoColor=blue" />&nbsp <!-- python -->
+    <img src="https://img.shields.io/badge/창의 공학-20232a.svg?style=for-the-badge&logo=bookstack&logoColor=blue" />&nbsp <!-- 공학설계입문 -->
+    <img src="https://img.shields.io/badge/캡스톤디자인과 벤처 스타트업-20232a.svg?style=for-the-badge&logo=bookstack&logoColor=blue" />&nbsp <!-- 캡스톤디자인 스타트업 -->
   <hr>
 </p>
